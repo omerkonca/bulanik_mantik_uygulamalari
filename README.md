@@ -1,4 +1,4 @@
-# bulanik_mantik_uygulamalari
+# bulanik mantik uygulamalari
 
 
 
